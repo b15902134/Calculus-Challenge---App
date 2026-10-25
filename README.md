@@ -28,7 +28,13 @@ An offline iPhone calculus practice app built with **SwiftUI**, featuring **1,00
 
 ## Run in Xcode · 執行方式
 
-> **Repository status:** The currently published repository provides `Untitled Project 3.xcodeproj.zip`, but the complete Swift source tree and bundled assets are not visible as standalone files. The archive may contain only the Xcode project configuration. Before expecting a fresh clone to build, upload the **complete** Xcode project, including its app/source folder, question-bank resources, and local MathJax files.
+1. Download the complete Xcode project package.
+2. Extract the ZIP file on your Mac.
+3. Open `Untitled Project 3.xcodeproj` in Xcode.
+4. Select an iPhone simulator or connected iPhone.
+5. Press `Command + R` to build and run the app.
+
+The app is designed to work offline, with bundled calculus questions and MathJax resources.
 
 After the full project has been uploaded:
 
