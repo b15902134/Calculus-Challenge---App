@@ -7,7 +7,7 @@ An offline iPhone calculus practice app built with **SwiftUI**, featuring **1,00
 ## App Demo · 操作展示
 
 <p align="center">
-  <img src="assets/calculus-challenge-demo.gif" alt="Calculus Challenge iPhone app demonstration" width="300">
+  <img src="calculus-challenge-demo.gif" alt="Calculus Challenge iPhone app demonstration" width="300">
 </p>
 
 > A short recording of the iPhone app in action. / iPhone App 操作示範。
